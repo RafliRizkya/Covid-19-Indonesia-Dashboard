@@ -1,5 +1,6 @@
 # Covid-19-Indonesia-Dashboard
 
+![Dashboard Covid 19](Dashboard%20Covid%2019.png)
 
 This repository contains a COVID-19 monitoring dashboard for Indonesia, visualizing key metrics such as total confirmed cases, recoveries, and deaths. The dashboard provides insights into case distribution across provinces while preserving data completeness by including a category for missing province values.
 
